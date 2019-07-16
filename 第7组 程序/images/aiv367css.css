@@ -1,0 +1,66 @@
+.black_12 {
+	font-size: 12px;
+	color: #000000;
+}
+
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	scrollbar-Base-Color:Silver;
+	scrollbar-Arrow-Color:#CAE2FE;
+	scrollbar-DarkShadow-Color:Silver;
+	scrollbar-Face-Color:#6595D6;
+	scrollbar-Highlight-Color:White;
+	scrollbar-Shadow-Color:White;
+	scrollbar-3dlight-Color:Fushia;
+}
+
+.yinying {
+	filter: DropShadow(Color=#EBF8FF, OffX=1, OffY=1, Positive=1);
+}
+
+
+a:link {
+	color: #04419E;
+	text-decoration: none;
+}
+
+a:visited {
+	text-decoration: none;
+	color: #04419E;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #FF9900;
+}
+
+a:active {
+	text-decoration: none;
+}
+
+.box {
+	font-size: 12px;
+	color: #000000;
+	background-color: #FFFFFF;
+	border: 1px solid  #0CBBE0;
+}
+
+.Menu1 {
+	font-size: 12px;
+	color: #FFFFFF;
+}
+
+.Menu2 {
+	font-size: 12px;
+	color: #1479C1;
+}
+
+.box-2 {
+	font-size: 12px;
+	color: #5493E9;
+	background-color: #CAE2FE;
+	border: 1px solid #5493E9;
+}
