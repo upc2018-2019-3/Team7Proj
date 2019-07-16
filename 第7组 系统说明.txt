@@ -1,0 +1,2 @@
+系统说明
+我们的系统利用ASP.NET和C#进行开发，开发工具分别是Visual Studio 2008和SQL Server 2008。
